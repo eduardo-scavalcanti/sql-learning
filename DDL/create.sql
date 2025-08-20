@@ -31,4 +31,3 @@ Observation: A column can also have more than one constraint.
 
 There are many constraints available, but the main goal here is to understand how the "CREATE" command works and when to use specific constraints.
 */
-
